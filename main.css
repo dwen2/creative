@@ -1,0 +1,188 @@
+body,html {
+    height:100%;
+    margin:0;
+    padding:0;
+    background: #E3DFD2; 
+}
+
+text {
+    font-size:10px;
+    transition:font-size .3s ease-out;
+    font-weight:900;
+    font-family:arial;
+}
+
+#one {
+    background:url("media/Istanbul.jpg"); 
+    background-size:cover;
+    background-position: center; 
+    margin: 100px 0px 100px 200px;
+    width:60vmin; 
+    height: auto;
+    display:block;
+}
+
+#one:hover .t1 {
+    transition:font-size .3s ease-in;
+    font-size: 135px; 
+}
+
+#cap11.caption1 {
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+    font-family: Antic Slab;
+    font-size: 80px;
+}
+
+#cap12.caption1 {
+    position: absolute;
+    top: 200px;
+    left: 1000px;
+    font-family: Antic Slab;
+    font-size: 50px;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+#two {
+    background:url("media/NYC.jpg"); 
+    background-size:cover;
+    background-position: center; 
+    margin: 100px 50px 100px 900px;
+    width:60vmin; 
+    height: auto;
+    display:block;
+}
+
+#two:hover .t2 {
+    transition:font-size .3s ease-in;
+    font-size: 155px;
+}
+
+#cap21.caption2 {
+    position: absolute;
+    top: 800px;
+    right: 1000px;
+    font-family: Antic Slab;
+    font-size: 80px;
+}
+
+#cap22.caption2 {
+    position: absolute;
+    top: 900px;
+    right: 1000px;
+    font-family: Antic Slab;
+    font-size: 50px;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+#three {
+    background:url("media/Toronto.jpg"); 
+    background-size:cover;
+    background-position: center; 
+    margin: 100px 400px 100px 200px;
+    width:60vmin; 
+    height: auto;
+    display:block;
+}
+
+#three:hover .t3 {
+    transition:font-size .3s ease-in;
+    font-size: 155px;
+    
+}
+
+#cap31.caption3 {
+    position: absolute;
+    top: 1500px;
+    left: 1000px;
+    font-family: Antic Slab;
+    font-size: 80px;
+}
+
+#cap32.caption3 {
+    position: absolute;
+    top: 1600px;
+    left: 1000px;
+    font-family: Antic Slab;
+    font-size: 50px;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+#four {
+    background:url("media/Tokyo.jpg"); 
+    background-size:cover;
+    background-position: center; 
+    margin: 100px 40px 100px 800px;
+    width:60vmin; 
+    height: auto;
+    display:block;
+}
+
+#four:hover .t4 {
+    transition:font-size .3s ease-in;
+    font-size: 155px;
+    
+}
+
+#cap41.caption4 {
+    position: absolute;
+    top: 2200px;
+    right: 1000px;
+    font-family: Antic Slab;
+    font-size: 80px;
+}
+
+#cap42.caption4 {
+    position: absolute;
+    top: 2300px;
+    right: 1000px;
+    font-family: Antic Slab;
+    font-size: 50px;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+#five {
+    background:url("media/Berlin.jpg"); 
+    background-size:cover;
+    background-position: center; 
+    margin: 100px 400px 100px 200px;
+    width:60vmin; 
+    height: auto;
+    display:block;
+}
+
+#five:hover .t5 {
+    transition:font-size .3s ease-in;
+    font-size: 155px;
+}
+
+#cap51.caption5 {
+    position: absolute;
+    top: 2900px;
+    left: 1000px;
+    font-family: Antic Slab;
+    font-size: 80px;
+}
+
+#cap52.caption5 {
+    position: absolute;
+    top: 3000px;
+    left: 1000px;
+    font-family: Antic Slab;
+    font-size: 50px;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+#foot {
+    text-align: center;
+    font-family: Antic Slab;
+    font-size: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
